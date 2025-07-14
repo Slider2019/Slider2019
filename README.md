@@ -2,7 +2,7 @@
 <h2 align="center">Aspirante a DevOps & Cloud Engineer</h2><br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Slider2019&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Slider2019&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Slider2019)](https://github.com/Slider2019/github-profile-trophy)

@@ -1,13 +1,13 @@
 # Bienvenido, Soy Diego Rojas 👋
 
-### Aspirante a DevOps & Cloud Engineer
+## Aspirante a DevOps & Cloud Engineer
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Slider2019&theme=transparent)](https://git.io/streak-stats)
   
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Slider2019)](https://github.com/Slider2019/github-profile-trophy)
 
 
-Sobre mí
+## Sobre mí
 Me encanta todo lo relacionado con la tecnología 🤖, la automatización 👨‍💻 y cómo usarla para hacer las cosas más simples, rápidas y eficientes. Disfruto trabajar con herramientas que mejoran los procesos y ayudan a que los equipos colaboren mejor.
 
 🌿 Estoy en constante aprendizaje, buscando crecer tanto a nivel personal como profesional.

@@ -102,14 +102,14 @@ Me encanta todo lo relacionado con la tecnología 🤖, la automatización 👨�
   <img width="12" />
 </div>
 
-## My Latest Blog Post
-🚧 Blog en construcción... instalando dependencias y configurando ideas.
+## Último post del Blog
+🛠️ Desplegando pensamientos en entorno de staging... ¡pronto en producción!
 <!-- POSTS:START -->
 <!-- POSTS:END -->
 
 ## Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@DiegoRojas-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegorojasv/)
 
-## Contact:
+## Contacto:
 
 [![Email](https://img.shields.io/badge/diego_rojas87@hotmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diego_rojas87@hotmail.com)

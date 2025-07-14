@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Slider2019&theme=transparent)](https://git.io/streak-stats)
   
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Slider2019)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Slider2019)](https://github.com/Slider2019/github-profile-trophy)
 
 
 Sobre mí

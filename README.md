@@ -1,4 +1,4 @@
-<h2 align="center">Bienvenido, Soy Diego Rojas 👋</h2>
+<h1 align="center">Bienvenido, Soy Diego Rojas 👋</h1>
 <h2 align="center">Aspirante a DevOps & Cloud Engineer</h2><br>
 
 

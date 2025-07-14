@@ -1,12 +1,10 @@
 # Bienvenido, Soy Diego Rojas 👋
 
 ### Aspirante a DevOps & Cloud Engineer
-[![GitHub Streak](https://streak-stats.demolab.com?user=Slider2019&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<!-- <img src="https://streak-stats.demolab.com?user=Slider2019&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Slider2019&theme=transparent)](https://git.io/streak-stats)
   
-  #### 🏆 GitHub Trophies
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Slider2019&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
-  -->
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Sobre mí

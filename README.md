@@ -1,7 +1,7 @@
 # Bienvenido, Soy Diego Rojas 👋
 
 ### Aspirante a DevOps & Cloud Engineer
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Slider2019&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Slider2019&theme=transparent&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](https://git.io/streak-stats)
   
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Slider2019)](https://github.com/Slider2019/github-profile-trophy)
